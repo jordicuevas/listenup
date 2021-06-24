@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest ",
-    "start": "node src",
+    "start": "node index.js",
     "deploy": "NODE_ENV=production node dist/index.js"
   },
   "jest": {
